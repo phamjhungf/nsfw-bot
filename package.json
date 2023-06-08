@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.4"
+  },
+  "name": "nsfw-bot",
+  "version": "1.0.0",
+  "description": "for some server xdxd",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamjhungf/nsfw-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamjhungf/nsfw-bot/issues"
+  },
+  "homepage": "https://github.com/phamjhungf/nsfw-bot#readme"
+}
