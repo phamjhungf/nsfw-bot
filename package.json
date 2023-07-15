@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "akaneko": "^5.2.7",
+    "colors": "^1.4.0",
     "discord.js": "^14.11.0",
     "dotenv": "^16.1.4"
   },
@@ -7,7 +9,6 @@
   "version": "1.0.0",
   "description": "for some server xdxd",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
